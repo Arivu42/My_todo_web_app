@@ -1,5 +1,4 @@
 clean the bag
 run fast
 run slow
-make a tea
 do the laundry
